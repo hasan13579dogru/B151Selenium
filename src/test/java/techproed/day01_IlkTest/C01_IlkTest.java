@@ -10,6 +10,8 @@ public class C01_IlkTest {
         System.out.println(System.getProperty("webdriver.chrome.driver"));
         WebDriver driver = new ChromeDriver();
         driver.get("https://techproeducation.com");
+
+        System.out.println("deneme git");
     }
 }
 
